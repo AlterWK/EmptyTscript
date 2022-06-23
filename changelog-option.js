@@ -1,3 +1,6 @@
+/* eslint-disable consistent-return */
+/* eslint-disable import/no-extraneous-dependencies */
+/* eslint-disable no-param-reassign */
 const compareFunc = require('compare-func')
 
 module.exports = {
